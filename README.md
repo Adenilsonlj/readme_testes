@@ -42,4 +42,4 @@ Exemplo da entrada (pressionar enter para confirmar entrada):
 - ### CapitalGainsTest
     Contém todos os testes com os casos do documento do desafio. Para executar é só usar o comando na pasta do UnitTest:
      
-     dotnet test
+      dotnet test
