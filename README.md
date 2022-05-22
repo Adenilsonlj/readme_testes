@@ -15,7 +15,7 @@ Depois de instalado executar o comando abaixo na pasta "CapitalGains":
      
      dotnet publish CapitalGains.csproj -c Release -o out
 O comando vai criar uma pasta "out" com o arquivo "CapitalGains.exe", então é somente executar e começar a testar.
-Exemplo:
+Exemplo da entrada (pressionar enter para confirmar entrada):
    
     [{'operation':'buy', 'unit-cost':10.00, 'quantity': 1000},{'operation':'sell', 'unit-cost':50.00, 'quantity': 15},{'operation':'sell', 'unit-cost':50.00, 'quantity': 15}]
 
