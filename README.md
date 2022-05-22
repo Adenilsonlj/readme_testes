@@ -33,7 +33,7 @@ Exemplo:
     Classe responsável pelas regras que opera a compra e venda de ações.
 
 - ### Models
-    Modelos de objetos para tratar entrada e saída de informação do console.
+    Pasta com os modelos de objetos para tratar entrada e saída de informação do console.
 
 # Testes unitários
 - ### CapitalGainsTest
