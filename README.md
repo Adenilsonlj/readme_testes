@@ -11,6 +11,7 @@
 # Como executar?
 
 Para facilitar a execução na pasta tem um arquivo dockerfile que é só gerar uma imagem e rodar o comando "docker run -it" com o id da imagem.
+
 Caso não queira usar o docker, então primeiro instalar o .NET SDK 6 https://dotnet.microsoft.com/en-us/download/dotnet/6.0.
 Depois de instalado executar o comando abaixo na pasta "CapitalGains":
      
